@@ -1,0 +1,26 @@
+[
+  {
+    "brokenAnchors": [],
+    "footer": true,
+    "images": [],
+    "main": true,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "brokenAnchors": [],
+    "footer": true,
+    "images": [],
+    "main": true,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "brokenAnchors": [],
+    "footer": true,
+    "images": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  }
+]
